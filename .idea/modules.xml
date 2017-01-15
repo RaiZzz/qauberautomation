@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Round13.iml" filepath="$PROJECT_DIR$/.idea/Round13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/QAUberAutomation_Fork.iml" filepath="$PROJECT_DIR$/.idea/QAUberAutomation_Fork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/group13fit.iml" filepath="$PROJECT_DIR$/group13fit.iml" />
     </modules>
   </component>
 </project>
